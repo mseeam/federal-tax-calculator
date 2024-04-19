@@ -1,1 +1,1 @@
-Provide menu-driven loop to calculate U.S. Federal Income taxes
+A simple C++ program to calculate U.S. Federal Income tax
